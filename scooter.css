@@ -1,0 +1,68 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    display: inline
+}
+.square{
+    width: 60%;
+    height: 70%;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: rgba(0,0,0,.6);
+    padding:50px;
+    border-radius: 10px 10px 10px 10px;
+    box-sizing: border-box;
+}
+main{
+    color: white;
+    margin-left: 4%;
+}
+
+.limlogo{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color: rgb(22, 240, 22);
+    text-align: center;
+}
+button{
+    display: inline;
+}
+nav{
+    text-align: center;
+    background-color: rgb(22, 240, 22);
+    margin-right: 4%;
+    margin-left: 4%;
+    padding: 1%;
+}
+hr{
+    height: 20px;
+    margin-left: 0%;
+    border-radius: 5px 5px 5px 5px ;
+}
+.batteria1{
+    background-color: rgb(223, 154, 4);
+    width: 250px;
+}
+.batteria2{
+    background-color: rgb(37, 193, 5);
+    width: 450px;
+}
+.batteria3{
+    background-color: rgb(185, 60, 60);
+    width: 150px;
+}
+.proprietari{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3%;
+}
+.veicoli{
+    font-size: 15px;
+}
